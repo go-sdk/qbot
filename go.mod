@@ -2,7 +2,7 @@ module github.com/go-sdk/qbot
 
 go 1.27.0
 
-require github.com/go-sdk/core v1.6.6
+require github.com/go-sdk/core v1.6.7
 
 require (
 	github.com/brianvoe/gofakeit/v7 v7.18.0 // indirect
