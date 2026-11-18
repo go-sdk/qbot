@@ -2,10 +2,10 @@ module github.com/go-sdk/qbot
 
 go 1.27.0
 
-require github.com/go-sdk/core v1.6.8
+require github.com/go-sdk/core v1.6.9
 
 require (
-	github.com/brianvoe/gofakeit/v7 v7.18.2 // indirect
+	github.com/brianvoe/gofakeit/v7 v7.18.9 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.16 // indirect
 	github.com/go-playground/locales v0.14.2 // indirect
@@ -27,8 +27,8 @@ require (
 	github.com/spf13/cast v1.10.0 // indirect
 	github.com/stretchr/testify v1.12.1 // indirect
 	go.yaml.in/yaml/v3 v3.0.6 // indirect
-	golang.org/x/crypto v0.58.0 // indirect
-	golang.org/x/net v0.62.0 // indirect
+	golang.org/x/crypto v0.59.0 // indirect
+	golang.org/x/net v0.63.0 // indirect
 	golang.org/x/sys v0.50.0 // indirect
 	golang.org/x/text v0.44.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
